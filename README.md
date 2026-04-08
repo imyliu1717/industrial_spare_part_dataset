@@ -1,4 +1,4 @@
-# 📦 Industrial Spare Parts Dataset for Fine-Grained Identification and Retrieval
+# 📦 IRISP: Fine-Grained Instance-Level Image Retrieval for Industrial Spare Parts
 
 ## 🧾 Overview
 
