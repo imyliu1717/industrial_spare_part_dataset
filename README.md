@@ -86,7 +86,8 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 ---
 
 ## 📄 License
-CC-BY-SA-4.0
+
+> CC-BY-SA-4.0
 ---
 
 ## 📌 Citation
