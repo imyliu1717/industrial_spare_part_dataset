@@ -87,7 +87,10 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 
 ## 📄 License
 
-> CC-BY-SA-4.0
+This dataset is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+See the LICENSE file for details.
 ---
 
 ## 📌 Citation
