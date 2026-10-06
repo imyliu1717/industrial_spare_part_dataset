@@ -27,11 +27,11 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 | Train | 7,395 | 67,844 | Used for model training |
 | Val   | 15    | 461    | Dense validation set |
 | Test  | 9,526 | 37,520 | Used for evaluation |
-| Phone Query | 10,000 | 10,000 | Query construction |
-| Phone Gallery | 10,000 | 10,000 | Gallery construction |
+| Mobile Phone Query | 10,000 | 10,000 | Query construction |
+| Mobile Phone Gallery | 10,000 | 10,000 | Gallery construction |
 | Studio (Photo Machine) Gallery | 10,000 | 10,000 | Cross-domain gallery |
 
-- Total mobile images: **131,937**  
+- Total mobile phone images: **131,937**  
 - Studio (Photo Machine) images: **10,000**  
 
 ---
