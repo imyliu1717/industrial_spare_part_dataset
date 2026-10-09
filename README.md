@@ -1,10 +1,12 @@
 # 📦 IRISP: Fine-Grained Instance-Level Image Retrieval for Industrial Spare Parts
-
 ## 🧾 Overview
 
 We present a large-scale dataset designed for **fine-grained object identification and retrieval in industrial scenarios**. The dataset contains **17,410 objects and 141,937 images**, including both mobile phone imagery and high-resolution machine-captured images.
 
 Objects are captured across diverse backgrounds and viewing directions, with a strong focus on **subtle inter-object differences**. This makes the dataset particularly suitable for evaluating models on **fine-grained discrimination**, **domain generalization**, and **large-scale retrieval**.
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf)
+
 
 ---
 
