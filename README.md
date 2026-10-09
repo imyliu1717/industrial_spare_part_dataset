@@ -96,8 +96,10 @@ See the LICENSE file for details.
 ## 📌 Citation
 
 ```bibtex
-@dataset{your_dataset_2026,
-  title={Industrial Spare Parts Dataset for Fine-Grained Identification and Retrieval},
-  author={Your Name},
-  year={2026}
+@inproceedings{liu2026efficientfinegrained84,
+  title = {{Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects}},
+  author = {Yushi Liu and Christian Graf and Markus Spies and Margret Keuper},
+  booktitle = {FGVC13 workshop Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects at CVPR 2026},
+  year = {2026},
+  url = {https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/html/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.html}
 }
