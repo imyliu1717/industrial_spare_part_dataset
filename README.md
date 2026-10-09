@@ -74,7 +74,7 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 - Differences are often **hard to describe in language** and require domain knowledge  
 - Many objects are **rare in pretrained datasets**, limiting prior knowledge  
 - Strong **viewpoint and background variation**  
-- Includes **cross-domain retrieval** (mobile → machine)
+- Includes **cross-domain retrieval** (mobile phone → photo machine)
 
 ---
 
