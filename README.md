@@ -30,6 +30,7 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 | Val   | 15    | 461    | Dense validation set |
 | Test  | 9,526 | 37,520 | Used for evaluation |
 | Mobile Phone Query | 10,000 | 10,000 | Query construction |
+| Mobile Phone Query (challenge) | 10,000 | 10,000 | Query construction |
 | Mobile Phone Gallery | 10,000 | 10,000 | Gallery construction |
 | Studio (Photo Machine) Gallery | 10,000 | 10,000 | Cross-domain gallery |
 
