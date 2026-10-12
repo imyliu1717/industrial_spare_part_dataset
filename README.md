@@ -86,6 +86,81 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 - All_Files_2.zip: Gallery and query images
 
 ---
+## 📦 Extract the dataset
+
+Download `All_Files.zip` and `All_Files_2.zip` into the same folder.
+Choose either extraction method below.
+
+### Option 1: Python — Windows, macOS, and Linux
+
+Requires Python 3.9 or newer. No additional packages are needed.
+
+Download `unpack_spare_parts.py` and run:
+
+**Windows — PowerShell or Command Prompt:**
+
+```powershell
+py unpack_spare_parts.py "path\to\your\dataset"
+```
+
+**macOS / Linux — Terminal:**
+
+```bash
+python3 unpack_spare_parts.py path\to\your\dataset
+```
+
+By default, the dataset is restored into an `images` folder inside the
+folder containing the ZIP files.
+
+To specify another output location:
+
+```powershell
+# Windows
+py unpack_spare_parts.py "path\to\your\dataset" --output "path\to\your\dataset\images"
+```
+
+```bash
+# macOS / Linux
+python3 unpack_spare_parts.py path/to/your/dataset --output path/to/your/dataset/images
+```
+
+### Option 2: Bash — Linux 
+
+Requires Bash and `unzip`.
+
+Download `unpack_spare_parts.sh` and run:
+
+```bash
+bash unpack_spare_parts.sh /path/to/download_folder
+```
+
+To specify another output location:
+
+```bash
+bash unpack_spare_parts.sh /path/to/download_folder /path/to/images
+```
+
+
+### Restored folder structure
+
+Both scripts extract the two outer ZIP files, unpack all 19 inner ZIPs,
+and organize the dataset into:
+
+```text
+images/
+├── query/phone/
+├── gallery/phone/
+├── gallery/studio/
+├── train/phone/
+├── val/phone/
+└── test/phone/
+```
+
+Each `phone` or `studio` folder contains subfolders named by object ID.
+
+The output `images` directory must not already exist. Both scripts preserve
+the original ZIP files and automatically remove temporary extraction files.
+Ensure sufficient free disk space for the extracted dataset and temporary files.
 
 ## 📄 License
 
