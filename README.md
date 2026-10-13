@@ -80,7 +80,7 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 
 ## 📥 Download
 
-> [Link](https://data.dws.informatik.uni-mannheim.de/machinelearning/yushi_segment_any_repeated_object/) to download 
+> [Link](https://data.dws.informatik.uni-mannheim.de/machinelearning/irisp/) to download 
 
 - All_Files.zip: training/validation/testing images
 - All_Files_2.zip: Gallery and query images
