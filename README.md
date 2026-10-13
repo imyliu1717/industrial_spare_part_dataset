@@ -89,8 +89,9 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 ---
 ## 📦 Extract the dataset
 
-Download `All_Files.zip` and `All_Files_2.zip` into the same folder.
-Choose either extraction method below.
+Download `All_Files.zip` and `All_Files_2.zip` into the same folder. 
+Choose either extraction method below to restore folder structure.
+Lastly, extract `gallery_phone_challenge.zip` to `images/gallery/phone_challenge`.
 
 ### Option 1: Python — Windows, macOS, and Linux
 
@@ -151,6 +152,7 @@ and organize the dataset into:
 images/
 ├── query/phone/
 ├── gallery/phone/
+├── gallery/phone_challenge/
 ├── gallery/studio/
 ├── train/phone/
 ├── val/phone/
