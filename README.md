@@ -84,6 +84,7 @@ Objects are captured across diverse backgrounds and viewing directions, with a s
 
 - All_Files.zip: training/validation/testing images
 - All_Files_2.zip: Gallery and query images
+- gallery_phone_challenge.zip
 
 ---
 ## 📦 Extract the dataset
